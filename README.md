@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @unrealsm0k
-- 👀 I’m interested in Cybersecurity and IT
-- 🌱 I’m currently learning Python and Webdev
-- 📫 If you want to Contact me just send me a message.
+
